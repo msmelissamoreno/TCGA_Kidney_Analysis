@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="TCGA KidneyCancer RNA-seq Classification Workflow" src="https://github.com/user-attachments/assets/6a9fe738-46fb-478f-84f8-f0d5780bda20" />
 # TCGA Kidney Cancer RNA-seq Classification Using NSGA-II
 
 This repository contains the Google Colab notebooks used for an RNA-seq classification analysis of the three major renal cell carcinoma cohorts in The Cancer Genome Atlas (TCGA): kidney chromophobe (KICH), kidney renal clear cell carcinoma (KIRC), and kidney renal papillary cell carcinoma (KIRP).
